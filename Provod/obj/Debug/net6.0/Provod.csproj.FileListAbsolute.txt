@@ -1,0 +1,15 @@
+C:\Users\Home\OneDrive\Рабочий стол\Шарп\Provod\bin\Debug\net6.0\Provod.exe
+C:\Users\Home\OneDrive\Рабочий стол\Шарп\Provod\bin\Debug\net6.0\Provod.deps.json
+C:\Users\Home\OneDrive\Рабочий стол\Шарп\Provod\bin\Debug\net6.0\Provod.runtimeconfig.json
+C:\Users\Home\OneDrive\Рабочий стол\Шарп\Provod\bin\Debug\net6.0\Provod.dll
+C:\Users\Home\OneDrive\Рабочий стол\Шарп\Provod\bin\Debug\net6.0\Provod.pdb
+C:\Users\Home\OneDrive\Рабочий стол\Шарп\Provod\obj\Debug\net6.0\Provod.csproj.AssemblyReference.cache
+C:\Users\Home\OneDrive\Рабочий стол\Шарп\Provod\obj\Debug\net6.0\Provod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\OneDrive\Рабочий стол\Шарп\Provod\obj\Debug\net6.0\Provod.AssemblyInfoInputs.cache
+C:\Users\Home\OneDrive\Рабочий стол\Шарп\Provod\obj\Debug\net6.0\Provod.AssemblyInfo.cs
+C:\Users\Home\OneDrive\Рабочий стол\Шарп\Provod\obj\Debug\net6.0\Provod.csproj.CoreCompileInputs.cache
+C:\Users\Home\OneDrive\Рабочий стол\Шарп\Provod\obj\Debug\net6.0\Provod.dll
+C:\Users\Home\OneDrive\Рабочий стол\Шарп\Provod\obj\Debug\net6.0\refint\Provod.dll
+C:\Users\Home\OneDrive\Рабочий стол\Шарп\Provod\obj\Debug\net6.0\Provod.pdb
+C:\Users\Home\OneDrive\Рабочий стол\Шарп\Provod\obj\Debug\net6.0\Provod.genruntimeconfig.cache
+C:\Users\Home\OneDrive\Рабочий стол\Шарп\Provod\obj\Debug\net6.0\ref\Provod.dll
